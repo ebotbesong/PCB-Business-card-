@@ -1,0 +1,8 @@
+Plot file "D:\KICAD\besong business card\New folder\business card-F_Cu.gtl" created.
+Plot file "D:\KICAD\besong business card\New folder\business card-B_Cu.gbl" created.
+Plot file "D:\KICAD\besong business card\New folder\business card-B_Paste.gbp" created.
+Plot file "D:\KICAD\besong business card\New folder\business card-F_SilkS.gto" created.
+Plot file "D:\KICAD\besong business card\New folder\business card-B_SilkS.gbo" created.
+Plot file "D:\KICAD\besong business card\New folder\business card-F_Mask.gts" created.
+Plot file "D:\KICAD\besong business card\New folder\business card-B_Mask.gbs" created.
+Plot file "D:\KICAD\besong business card\New folder\business card-Edge_Cuts.gm1" created.
