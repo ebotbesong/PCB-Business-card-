@@ -15,5 +15,5 @@
 ## Manufacture card
 <img src='Docs/jlpcb3.jpeg' width='600'>
 
-## Manufactured card 
-<img src='Docs/cardjlpcb.jepg' width='600'>
+## Manufactured card
+<img src='Docs/cardjlpcb1.jpeg' width='600'>
