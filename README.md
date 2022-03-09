@@ -1,5 +1,5 @@
 # Business card
-
+This is a business card that has been designed on a PCB both. The idea comes from other opensource design already available. I got the card from China using JLPCB. I added a through hole so that the cards can be used as keyholders. I used one those as my own personal key holder.
 ## Top view  
 <img src='Docs/pcb layout.PNG' width='600'>
 
